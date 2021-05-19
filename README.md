@@ -1,7 +1,7 @@
 ## Hi I'm Aditya <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="38px" alt="h">
 
 
-I'm Aditya Raj a Beginner here . I spend most of the time in exploring different things.I am still at Conscious Competence. :blush: <br /><br />
+I'm Aditya Raj, a Beginner here I spend most of the time in exploring different things. I am still at Conscious Competence  :blush: <br /><br />
 
 :mailbox: Reach me out!
 
