@@ -10,7 +10,7 @@ I'm Aditya Raj, a Beginner here I spend most of the time in exploring different 
 <br />
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on Tech-Man :grey_exclamation:
+- 🔭 I’m currently working on Data Science and ML :grey_exclamation:
 - :computer: Most used line of code import pandas as pd.
 - 🤔 I’m looking to gain some expreience.
 - 🥅 2021 Goals: Contribute more to Open Source projects.To perform Blue Team exercises.
