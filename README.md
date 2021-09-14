@@ -46,7 +46,7 @@ I'm Aditya Raj, a Beginner here I spend most of the time in exploring different 
 
 <br >
 
-I am a first year student at IIITM-Gwalior. I have a huge interests in Digital Marketing, Web Analytics, Reverse Engineering.
+I am a Second year student at IIITM-Gwalior. I have a huge interests in Digital Marketing, Web Analytics, Reverse Engineering.
 
 
 
