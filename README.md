@@ -6,7 +6,7 @@ I'm Aditya Raj, a Beginner here I spend most of the time in exploring different 
 :mailbox: Reach me out!
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@AR-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com)](https://twitter.com/) [![Mail Badge](https://img.shields.io/badge/-Tech_Man-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPRtxaBgQnHftOXCs28WEbQ) [![Linkedin Badge](https://img.shields.io/badge/-Aditya_Raj-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-raj-993949201/) [![Mail Badge](https://img.shields.io/badge/-@_aditya_raj-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/) [![Mail Badge](https://img.shields.io/badge/-Aditya_Raj-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ar915888@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@AR-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com)](https://twitter.com/) [![Linkedin Badge](https://img.shields.io/badge/-Aditya_Raj-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-raj-993949201/) [![Mail Badge](https://img.shields.io/badge/-@_aditya_raj-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/) [![Mail Badge](https://img.shields.io/badge/-Aditya_Raj-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ar915888@gmail.com)
 <br />
 <!-- TODO: Add last video link -->
 
