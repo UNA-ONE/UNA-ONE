@@ -13,7 +13,7 @@ I'm Aditya Raj, a Beginner here I spend most of the time in exploring different 
 - 🔭 I’m currently working on Data Science and ML :grey_exclamation:
 - :computer: Most used line of code import pandas as pd.
 - 🤔 I’m looking to gain some expreience.
-- 🥅 2022 Goals: Contribute more to Open Source projects.To perform Blue Team exercises.
+- 🥅 2023 Goals: Contribute more to Open Source projects.To perform Blue Team exercises.
 - 😄 Pronouns: AR, adi.
 - ⚡ Fun fact: I love exploring different places and cultures.
 
